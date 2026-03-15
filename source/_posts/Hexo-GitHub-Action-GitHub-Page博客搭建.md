@@ -1,6 +1,6 @@
 ---
 title: Hexo + GitHub Action + GitHub Page博客搭建
-date: 2026-03-15 23:04:41
+date: 2025-03-15 23:04:41
 tags:
 ---
 # Hexo + GitHub Action + GitHub Page博客搭建
