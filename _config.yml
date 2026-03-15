@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: '梦境2049'
+subtitle: 'horizon2049'
+description: '雨声渐小，夜色渐浓，梦境渐近'
 keywords:
-author: John Doe
-language: en
+author: Xiaoyu
+language: zh-CN
 timezone: ''
 
 # URL
@@ -96,8 +96,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
-
+theme: cactus
+theme_config:
+  colorscheme: white
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
